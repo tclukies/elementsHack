@@ -1,0 +1,39 @@
+body {
+  color: white;
+  background: #A6D2EB;
+}
+
+svg {width: 100px; height: auto;}
+
+h1 {
+  text-align: center
+}
+
+#topnav {
+  background-color: white;
+  color: #A6D2EB;
+}
+
+#topnav a {
+  color: #A6D2EB;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+#topnav a:hover {
+  background-color: #0D50B6;
+  color: white;
+}
+
+.topnav a:focus {
+  background-color: blue;
+  color: #f2f2f2;
+}
+
+p {
+  text-indent: 50px;
+  line-height: 1.6;
+  font-size: 20px;
+}
