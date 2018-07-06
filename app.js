@@ -8,7 +8,7 @@ fetch("./waterdata.json")
 
 function addElements(data) {
   console.log(data);
-  var calculatedTotal = document.createElement("h1");
+  var calculatedTotal = document.createElement("p");
 
   calculatedTotal.textContent = data[0].action;
 
