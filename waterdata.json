@@ -1,0 +1,12 @@
+[
+  {
+    "action": "washingMachine",
+    "gallonsPerUse": 20,
+    "gallonsUsedPerWeek": 42
+  },
+  { "action": "showering", "gallonsUsedPerWeek": 140 },
+  { "action": "toilet", "gallonsUsedPerWeek": 63.7 },
+  { "action": "dishWasher", "gallonsUsedPerWeek": 28 },
+  { "action": "handWashingDishes", "gallonsUsedPerWeek": 70 },
+  { "action": "personalHygiene", "gallonsUsedPerWeek": 19.25 }
+]
